@@ -86,5 +86,9 @@ A full-stack task management application built with **Golang (Gin)** for the bac
 - Input validation in `CreateTaskForm`.
 - Deployed demo with video walkthrough.
 
+
+https://github.com/user-attachments/assets/48952216-ef94-4c8b-8d4f-d4356a10fa07
+
+
 ![90F812A9-E867-47A4-8706-D4AFB7D6A697_1_102_o](https://github.com/user-attachments/assets/085dc6bd-bfeb-4ac3-983c-7169f7c922a7)
 
